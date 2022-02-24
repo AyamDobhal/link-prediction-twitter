@@ -1,0 +1,7 @@
+.ipynb_checkpoints/*
+.vscode/*
+data/*
+graphs/*
+twitter_combined.txt
+feature_set.csv
+twitter_combined.txt.gz
